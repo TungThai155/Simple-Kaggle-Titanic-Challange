@@ -1,5 +1,5 @@
 ## Working directory
-setwd("C:/Users/tungt/Dropbox/Machine Learning Summer 2019 - Tung Thai/Final Project")
+setwd("...")
 ## Library used
 #install.packages("compare") #comment it out if you had this library
 library(compare)
